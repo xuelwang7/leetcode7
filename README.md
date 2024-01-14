@@ -3,4 +3,4 @@
 * Problems solved: 0
 * Easy: 217
 * Medium: 105
-* Hard: 17
+* Hard: 1
